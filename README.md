@@ -84,3 +84,6 @@ This page identifies which obstacles are most frequently used across seasons and
 ## 🎯 Project Takeaway
 This project demonstrates how competition data can be transformed into structured analytical insights, highlighting trends in obstacle design, competition structure, and geographical concentration using business intelligence techniques.
 
+Project LINK: 
+
+https://drive.google.com/file/d/1cI-ckXvpfguii5kR1CjqJu2ApRF9K3BB/view?usp=sharing
